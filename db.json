@@ -1,0 +1,437 @@
+
+
+
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "earphones":[
+      {
+        
+          "id":1,
+          "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw7FkvIkJ6vAO8D2rxYddx_xM4a81L4WBAw&usqp=CAU",
+          "title":"Noise Sense Bluethooth Wireless In Ear,With Fast Charging",
+          "price":899.00,
+          "save":"64%(1,600)"
+      
+      
+      },
+      {
+        "id":2,
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdHAJoD5Vi2r_KF9tAOjk6jNkkL4EaiGjGw&usqp=CAU",
+        "title":"boAt Stone Grenada 5W wireleass Speaker ",
+        "price":899.00,
+        "save":"78%(3,100)"
+    
+    
+    },
+       
+    {
+        "id":3,
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZsaKSli3QidcyEQLfDQHvl2iNTLjRQ4IaaA&usqp=CAU",
+        "title":"boAt Airdopes 138 Twin Wireless Earbuds with IWP Technology",
+        "price":1999.00,
+        "save":"60%(1,791)"
+    
+    
+    },
+    {
+    "id":4,
+    "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFf8qUaTbvEnEF5wcmrZzh7y8WDRNx2w9Dcg&usqp=CAU",
+    "title":"Noise Sense Bluethooth Wireless In Ear,With Fast Charging",
+    "price":899.00,
+    "save":"64%(1,600)"
+    },
+    {
+        "id":5,
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT266Z9BidSURFw8392N-fULak5zX41O2DlYA&usqp=CAU",
+        "title":"Noise Sense Bluethooth Wireless In Ear,With Fast Charging",
+        "price":899.00,
+        "save":"78%(3,100)"
+    
+    
+    }
+    
+    
+      
+    ],
+   "leds": [
+      {
+   "id":1,
+   "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgo89Asgv5sqDPew1dK4TPJ24b3nkGkW2ZZqVN2Bcx1cvVtiHFUBib9lwknC6NWc0HkDM&usqp=CAU",
+   "title":"TCL 139.7cm(55 inch)QLED (4k) smart TVC725",
+   "price": 42990.00,
+   "mrp":"1,16,990",
+   "save":"63%(74,000)"
+  
+  
+  },
+  {
+   "id":2,
+   "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZYNIErNDapH19lQ3h6DAA6WA8AWd1YCG0zQ&usqp=CAU",
+   "title":"ONEPLUS 108 cm(43 inch) Full HD LED TV,43Y1 ",
+   "price":24999,
+   "mrp":"29999",
+   "save":"17%(5000)"
+  
+  
+  },
+  
+  {
+   "id":3,
+   "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZX37l4f8WgBiuzOXk5PFjv16ve50TDGCjYLSqHYqyFCe1Dn9wudVyBu00GsTHnxFX2Ak&usqp=CAU",
+   "title":"Hisense 108 cm (43 inch ) 2yr Warrantly 4k (Black)",
+   "price":20990,
+   "mrp":"44990",
+   "save":"53%(24,,000)"
+  
+  
+  },
+  {
+  "id":4,
+  "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfVxPWl2-qe7k3GLEBbuLEkSDt1AnIPltEew&usqp=CAU",
+  "title":"IFFALCON 139.7cm (55 inch)ultra HD(4k), 55U71",
+  " price": 24990,
+  "mrp":"70990",
+  "Save":"64%(63%(45,000)"
+  },
+  {
+   "id":5,
+   "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPZoUcNOoeHQ3aWcN2XX7J73YjA4HDb0jIg&usqp=CAU",
+   "title":"Kodak 108 cm(43 inch)Ultra HD (4k) LED Smart,7XPRO",
+   "price":22999.00,
+  "mrp":"33999",
+   "save":"32%(11,100)"
+  
+  
+  }
+  
+  
+  
+  ],
+  
+  
+  "monitors":[
+    {
+      "id":1,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoJQf8ZGpwWQQoxarNlACX5D7nfl79V-lOxw&usqp=CAU",
+      "title":"ZEBRONICS MT 161-ZEB A22 FHD 54.6 cm",
+      "price":"5999",
+      "mrp":"21,999",
+      "save":"73%(1600)"
+  
+    },
+    {
+      "id":2,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0fZEHF3h48fUMhFgKZu6LDXAFH8yEh66TQ&usqp=CAU",
+      "title":"ENTER A06 39.1 cm(15.4 inch),BLACK Monitor",
+      "price":"2,999",
+      "mrp":"6,0000",
+      "save":"50%(3001)"
+    },
+    {
+      "id":3,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAIgJuL3RpIdA13TPif-EyNajOpsOQpMCAg&usqp=CAU",
+      "title":"Acer HA 220Q 54.61 cm (21.5 inch) panel Technology 1920 X ",
+      "price":"8999",
+      "mrp":"15,700",
+      "save":"43%(6,701)"
+    },
+    {
+      "id":4,
+      "url":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx0fZEHF3h48fUMhFgKZu6LDXAFH8yEh66TQ&usqp=CAU",
+      "title":"ENTER A02-W 43.94 cm(17.3 inch) ,Black",
+      "price":"3999",
+      "mrp":"4000",
+      "save":"59%(4,701)"
+    },
+    {
+      "id":5,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjE8ot8oHLN5rtaMjm_T5yCrOdpCwQd5gPZeKZ0MwXn2dJVXQflUI59vt7Gbn9mWPCMqI&usqp=CAU",
+      "title":"Acer HA240Y 60.45 cm(23.8 inch) with IPS Panel",
+      "price":"12,299",
+      "mrp":"17,600",
+      "save":"41%(7,301)"
+    },
+    {
+      "id":6,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT73FM6H725VGxwvir_n4gQOVZXum3vt3I-9A&usqp=CAU",
+      "title":"Acer EK240YC 60.5(23.8) with VA Panel Technology",
+      "price":"8199",
+      "mrp":"17,500",
+      "save":"53%(9,301)"
+    },
+    {
+      "id":7,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3N4-pWe9In4QZaABgCAU-qhrVz6kkIlZxw&usqp=CAU",
+      "title":"Asus VG259QR 62.23 cm (34.5 inch) with IPS Panel Technology",
+      "price":"19,999",
+      "mrp":"37,000",
+      "save":"46%(17,001)"
+    },
+    {
+      "id":8,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwh3MobFJixfj1HbQbWAUT60vCHk7PLTAsZw&usqp=CAU",
+      "title":"ViewSonic VA 2256-H 55.88 cm(22 inch) with IPS Panel",
+      "price":"9,999",
+      "mrp":"19.500",
+      "save":"49%(9,501)"
+    }
+   
+  ],
+  
+  "iphones":[
+   
+    {
+      "id":1,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-uLRckP2UX9nGEytLI5XgiECSUmvehMiVeg&usqp=CAU",
+      "title":"Apple iPhone 14 Plus 128 GB,Starlight",
+      "price":"79,900"
+    },
+    {
+      "id":2,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbQFWBPATFxIpDlXG_3IJrcfI0hsL06-3iSQ&usqp=CAU",
+      "title":"Apple iPhone 14 512 GB,Golden",
+      "price":"1,09,900"
+    },
+    {
+      "id":3,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_YsNAn-Jll9W7EmQPCMI3MJQLAIntbgjPw&usqp=CAU",
+      "title":"Apple iphone 14 512 GB, Blue",
+      "price":"1,19,900"
+    },
+  
+    {
+      "id":4,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg2He9Uy-htaZ3Y3Eiz0kGN_ojVaxM_6Camg&usqp=CAU",
+      "title":"Apple iPhone 14 128 GB, Midnight",
+      "price":"79,900"
+    },
+    {
+      "id":5,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsKi2UATV8fBBUK57TtMxdAInE6TnqpCppXw&usqp=CAU",
+      "title":"Apple iPhone 14 Plus 128 GB, Starlight",
+      "price":"89,900"
+    },
+    {
+      "id":6,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1NfmD43oBuSL3e9HCgMBSNUH-_1Gw9Gc50A&usqp=CAU",
+      "title":"Apple iPhone 14 256 GB, Red",
+      "price":"89,900"
+    },
+    {
+      "id":7,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KcLtv-hxHlAe2NZzqmFENRlje_Qy9d4XKw&usqp=CAU",
+      "title":"Apple iPhone 14 256 GB,Black",
+      "price":"1,19,300"
+    },
+    {
+      "id":8,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPpclhJEs0I-3-mrwYSnIZne6XZ7a7IRgDw&usqp=CAU",
+      "title":"Apple iPhone 14 64 GB, Red",
+      "price":"70,000"
+    }
+  ],
+  
+  "watch":[
+   
+    {
+      "id":1,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDebnEeq76eCAfBxVQ_L20ykt7T8gdQL_Og&usqp=CAU",
+      "title":"p Tron pulsefit F21 plus smart watch with 4.31 cm(1.7 inch) ",
+      "price":"999",
+      "mrp":"3,499",
+      "save":"71%(2,500)"
+  
+  
+    },
+    {
+      "id":2,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx80GMxC1AHxN3w9H_vdMfnVpRdi4SPZFvnw&usqp=CAU",
+      "title":"Hammer pulse Ace Smart Watch With Bluethooth Calling Function,Black",
+      "price":"1,299",
+      "mrp":"3,999",
+      "save":"68%(2,700)"
+  
+  
+    },
+  
+    {
+      "id":3,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LLYHfgzAOUBxhUExWWCPY3CibEfw1yJhtQ&usqp=CAU",
+      "title":"p tron Pulseefit p261 Bluethooth Calling SmartWatch with IP68",
+      "price":"1,299",
+      "mrp":"5,999",
+      "save":"78%(4,700)"
+  
+  
+    },
+    {
+      "id":4,    
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrggMfNu3XIMHHkzK4eNBPijsl9tK9wz3MA&usqp=CAU",
+      "title":"Ambrance Wise Spirit Smart Watch with Bluetooth Calling ,Black",
+      "price":"1,699",
+      "mrp":"4,999",
+      "save":"66%(3,300)"
+  
+  
+    },
+    {
+      "id":5,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSl1Yue5dJGeQdy5wTCdsaomvnIqwMtm-nQ&usqp=CAU",
+      "title":"Noise colorFit Caliber Go Smart Watch With 4.29 cm (1.69 inch) Full Touch Display",
+      "price":"1,799",
+      "mrp":"3,999",
+      "save":"55%(2,200)"
+  
+  
+    },
+    {
+      "id":6,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScSgjNuCMGmheyQlCnQoGl3gwXNQjSkOpNSA&usqp=CAU",
+      "title":"Fire-Boltt Hurricane Smart Watch With Smart Notification(Black)",
+      "price":"1,999",
+      "mrp":"8,999",
+      "save":"78%(7,000)"
+  
+  
+    },
+    {
+      "id":7,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Te__rL1YxBCueo8eCGLcab099dHKe_3AuA&usqp=CAU",
+      "title":"boAt Wave Play Smart Watch With 4.29 cm(1.69 inch) HD,Active Blue",
+      "price":"7,500",
+      "mrp":"15000",
+      "save":"50%(7500)"
+  
+  
+    },
+    {
+      "id":8,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ8qeg14qJTZiSBijdo1kj2oS546sGJKgDlw&usqp=CAU",
+      "title":"FARp digitial smart watch with 3,01 cm,Active Blue",
+      "price":"1,000",
+      "mrp":"2000",
+      "save":"50%(1,000)"
+  
+    }
+  
+  
+  ],
+  
+  "storage":[
+    {
+      "id":1,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYeLxdOp76rktq32ImAZFYAgLudNRWVBZH2xu5pl7Z7W0wmPPuy26uzYtfXCCKofLCmQ&usqp=CAU",
+      "title":"Sandisk 32 GB Cruzer Blade USB Flash Drive ,CZ50-032Gb-B35",
+      "price":"299",
+      "mrp":"775",
+      "save":"61%(456)"
+    },
+    {
+      "id":2,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtd2foyyS63B_cvmJ80Db7V6rUzMtjJOTIg&usqp=CAU",
+      "title":"Sandish 64 GB Cruzer Blade USB Flash Drive,CZ50",
+      "price":"499",
+      "mrp":"1,300",
+      "save":"65%(851)"
+    },
+    {
+      "id":3,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxEEdP0Bsg_dd95cjRWyLqyyecV7sFhna5A&usqp=CAU",
+      "title":"Sandish ultra 16 GB microSDXC Memory  ",
+      "price":"249",
+      "mrp":"500",
+      "save":"49%(124)"
+    },
+    {
+      "id":4,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQokXPZzqW-xom2Hp4g9Lttob7ThVVGRErWGA&usqp=CAU",
+      "title":"Sandish ultra 64 GB microSDXC Memory ",
+      "price":"1,129",
+      "mrp":"2,500",
+      "save":"55%(1,371)"
+    },
+    {
+      "id":5,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNU-M6lQdI1pKjYThkBXi5PBlNqTvXy2iYCQ&usqp=CAU",
+      "title":"Sumsung 64 GB EVO Plus microSDXC Memory Card",
+      "price":"649",
+      "mrp":"1,899",
+      "save":"66%(1,250)"
+    },
+    {
+      "id":6,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThGjes41nXIO9NTsfnvVfO5zuBet3_wRij1A&usqp=CAU",
+      "title":"Sandish ultra 128 GB microSDXC Memory",
+      "price":"800",
+      "mrp":"1,300",
+      "save":"24%(700)"
+    }
+  
+  
+  ],
+  
+  "explore":[
+    {
+      "id":1,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThVO9mNot6YiL1VNjM6wKREhwLN8A8pR1JXw&usqp=CAU"
+    },
+    {
+      "id":2,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbzQP5NQbJCIZtyxEbOGwmgwuTJenjZc4jWA&usqp=CAU"
+    },
+    {
+      "id":3,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfjCn2t5o5yBrv-ZB32uNIAp09psR0AooNw&usqp=CAU"
+    },
+    {
+      "id":4,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQfkBadezPFVyRPT14KLA8Q57O-lrMx0L3yw&usqp=CAU"
+    },
+    {
+      "id":5,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLY3vBhx0edZAv1A06kW5J8mcRlEsRmQBKfw&usqp=CAU"
+    },
+    {
+      "id":6,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAemhufQUQK-RiiBYqkORc-vNdYt916MXVA&usqp=CAU"
+    },
+    {
+      "id":7,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuz3BtsaavM6hu41YmKPBQpbvcEG6oGT3v7A&usqp=CAU"
+    },
+    {
+      "id":8,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0pDZR2AqvCETP-V--L1mgBJJkb4DsqY-AA&usqp=CAU"
+    },
+    {
+      "id":9,
+      "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0pDZR2AqvCETP-V--L1mgBJJkb4DsqY-AA&usqp=CAU"
+    }
+   
+  
+  
+   
+  ],
+  
+  
+  
+    "profile": {
+      "name": "typicode"
+    }
+    
+  }
+  
+  
